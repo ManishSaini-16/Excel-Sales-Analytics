@@ -3,10 +3,10 @@
 
 - **Project objective:** 
 
-    **1.** Create a _[customer performance report]([)](https://github.com/ManishSaini-16/Excel-Sales-Analytics/blob/main/Customer%20Performance%20Report.pdf)_ 
+    **1.** Create a _[customer performance report](https://github.com/ManishSaini-16/Excel-Sales-Analytics/blob/main/Customer%20Performance%20Report.pdf)_ 
 
-    **2.** Conduct a comprehensive comparison between _[market performance and sales targets][
-](https://github.com/ManishSaini-16/Excel-Sales-Analytics/blob/main/Market%20Performance%20vs%20Target%20Report.pdf)
+    **2.** Conduct a comprehensive comparison between _[market performance and sales targets](https://github.com/ManishSaini-16/Excel-Sales-Analytics/blob/main/Market%20Performance%20vs%20Target%20Report.pdf)_
+
 - **Purpose of sales analytics:** Empower businesses to track and improve their sales.
 
 - **Importance of analyzing sales data:** Identify sales patterns and track key performance indicators (KPIs).
@@ -18,15 +18,15 @@
 
 - **Project objective:** 
 
-    **1.** Create Profit and Loss (P&L) reports by _[Fiscal Year][_](https://github.com/ManishSaini-16/Excel-Sales-Analytics/blob/main/P%26L%20Statement%20by%20Fiscal%20Year.pdf) & _[Months](https://github.com/Mangaldas47/Excel-Sales-Analytics/blob/main/P%26L%20Statement%20by%20Months.pdf)_ 
+    **1.** Create Profit and Loss (P&L) reports by _[Fiscal Year](https://github.com/ManishSaini-16/Excel-Sales-Analytics/blob/main/P%26L%20Statement%20by%20Fiscal%20Year.pdf)_ & _[Months](https://github.com/ManishSaini-16/Excel-Sales-Analytics/blob/main/P%26L%20Statement%20by%20Months.pdf)_ 
 
-   **2.** Create Profit and Loss (P&L) reports by _[Markets][
-](https://github.com/ManishSaini-16/Excel-Sales-Analytics/blob/main/P%26L%20Statement%20by%20Markets.pdf)
-- **Purpose of sales analytics:** Evaluation of financial performance, support decision-making, and facilitate communication with stakeholders.
+   **2.** Create Profit and Loss (P&L) reports by _[Markets](https://github.com/ManishSaini-16/Excel-Sales-Analytics/blob/main/P%26L%20Statement%20by%20Markets.pdf)_
+
+- **Purpose of sales analytics:** financial performance evaluation, support decision-making, and facilitate communication with stakeholders.
 
 - **Importance of analyzing Finance data:** Aid in benchmarking against industry peers and previous periods Foundation for budgeting and forecasting.
 
-- **Role of reports:** Align financial planning with strategic goals Instill confidence in the organization's financial outlook.
+- **Role of reports:** Align financial planning with strategic goals. Instill confidence in the organization's financial outlook.
 
 
 ## Technical & Soft Skills:
